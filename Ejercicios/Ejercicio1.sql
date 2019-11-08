@@ -72,6 +72,3 @@ CREATE FUNCTION CargaResumenContrato() RETURNS VOID
 	END;
 	$function$
 	LANGUAGE plpgsql;
-
--- 2.b
--- SELECT copy_contrato('C:\Users\Nico\Documents\ITBA\2019C2\BD1\TPE\tpe-bd-g5\Enunciado\alquileres.csv');
